@@ -1,5 +1,5 @@
 # Block Breaker Game
-
+- ## By Axionis
 This is a simple Block Breaker game developed in Java using the Swing framework. The player controls a paddle to prevent the ball from falling, breaking blocks to earn points within a limited time.
 
 ## Table of Contents
