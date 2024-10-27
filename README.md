@@ -8,6 +8,7 @@ This is a simple Block Breaker game developed in Java using the Swing framework.
 - [Controls](#controls)
 - [Gameplay](#gameplay)
 - [Future Enhancements](#future-enhancements)
+- [Team Information](#team-information)
 
 ## Features
 - Classic Block Breaker gameplay.
@@ -33,6 +34,12 @@ This is a simple Block Breaker game developed in Java using the Swing framework.
 - Pause/Resume Feature: Allow pausing and resuming the game.
 - Lives System: Implement a lives system to give players multiple chances.
 - Power-Ups: Add power-ups, like paddle extensions and ball speed adjustments.
+
+## Team Information
+- Urja Gunjan - 23SCSE1011457
+- Kartik Mahajan - 23SCSE1010861
+- Shivali Jain - 23SCSE1011756
+- Shreya Katiyar - 23SCSE1010194
 
 
 
