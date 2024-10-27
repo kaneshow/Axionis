@@ -5,6 +5,7 @@ This is a simple Block Breaker game developed in Java using the Swing framework.
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
+- [Graphics Library](#graphics-library)
 - [Controls](#controls)
 - [Gameplay](#gameplay)
 - [Future Enhancements](#future-enhancements)
@@ -20,6 +21,12 @@ This is a simple Block Breaker game developed in Java using the Swing framework.
 ## Requirements
 - Java Development Kit (JDK) 8 or higher.
 - Java IDE or editor (e.g., IntelliJ IDEA, Eclipse, or NetBeans).
+
+## Graphics Library:
+- Java AWT (Abstract Window Toolkit): Provides low-level graphics
+capabilities.
+- Java Swing: A GUI widget toolkit that can be used to create windows,
+handle rendering of the game objects (paddles, blocks, and ball).
 
 ## Controls
 - Left Arrow Key: Move paddle left.
