@@ -29,7 +29,7 @@ This is a simple Block Breaker game developed in Java using the Swing framework.
 - Timer: You have 120 seconds to clear all blocks. The game ends when the timer runs out, or the ball falls below the paddle.
 - Score: Your score increases with each block destroyed.
 
-- ## Future Enhancements
+## Future Enhancements
 - Pause/Resume Feature: Allow pausing and resuming the game.
 - Lives System: Implement a lives system to give players multiple chances.
 - Power-Ups: Add power-ups, like paddle extensions and ball speed adjustments.
